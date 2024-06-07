@@ -1,0 +1,158 @@
+{
+    "services": [
+        {
+            "id": 0,
+            "title": "Web Design",
+            "image":"./images/services/service1.png",
+            "description": "Nulla vitae elit libero, a pharetra augue.   Donec id elit non mi porta gravida at eget.",
+            "link":"/"
+        },
+        {
+            "id": 1,
+            "title": "Web Design",
+            "image":"./images/services/service1.png",
+            "description": "Nulla vitae elit libero, a pharetra augue.   Donec id elit non mi porta gravida at eget.",
+            "link":"/"
+        },
+        {
+            "id": 2,
+            "title": "Web Design",
+            "image":"./images/services/service1.png",
+            "description": "Nulla vitae elit libero, a pharetra augue.   Donec id elit non mi porta gravida at eget.",
+            "link":"/"
+        }
+    ],
+    "testimonials": [
+        {
+         "id": 0,
+         "author": "Coriss Ambady",
+         "image":"./images/team/te1.jpg",
+         "area":"Financial Analyst",
+         "testimonial": "Fermentum massa justo sit amet risus morbi leo.",
+         "link":"/"
+        },
+        {
+            "id": 1,
+            "author": "Cory Zamora",
+            "image":"./images/team/te2.jpg",
+            "area":"Marketing Specialist",
+            "testimonial": "Fermentum massa justo sit amet risus morbi leo.",
+            "link":"/"
+           },
+           {
+            "id": 2,
+            "author": "Nikolas Brooten",
+            "image":"./images/team/te3.jpg",
+            "area":"Sales Manager",
+            "testimonial": "Fermentum massa justo sit amet risus morbi leo.",
+            "link":"/"
+           },
+           {
+            "id": 3,
+            "author": "Jackie Sanders",
+            "image":"./images/team/te4.jpg",
+            "area":"Investment Planner",
+            "testimonial": "Fermentum massa justo sit amet risus morbi leo.",
+            "link":"/"
+           },
+           {
+            "id": 4,
+            "author": "Laura Widerski",
+            "image":"./images/team/te6.jpg",
+            "area":"Sales Specialist",
+            "testimonial": "Fermentum massa justo sit amet risus morbi leo.",
+            "link":"/"
+           },
+           {
+            "id": 5,
+            "author": "Jackie Sanders",
+            "image":"./images/team/te5.jpg",
+            "area":"Investment Planner",
+            "testimonial": "Fermentum massa justo sit amet risus morbi leo.",
+            "link":"/"
+           }
+    ],
+    "faqs": [
+    {
+      "id": 0,
+      "question": "How do I get my subscription receipt?",
+      "answer": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur sed blanditiis aut hic iusto laborum corporis, accusantium illum vel dicta temporibus animi ipsum quam quidem rerum voluptatibus nihil id asperiores!"
+    },
+    {
+      "id": 1,
+      "question": "How do I get my subscription receipt?",
+      "answer": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur sed blanditiis aut hic iusto laborum corporis, accusantium illum vel dicta temporibus animi ipsum quam quidem rerum voluptatibus nihil id asperiores!"
+    },
+    {
+      "id": 2,
+      "question": "How do I get my subscription receipt?",
+      "answer": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur sed blanditiis aut hic iusto laborum corporis, accusantium illum vel dicta temporibus animi ipsum quam quidem rerum voluptatibus nihil id asperiores!"
+    },
+    {
+      "id": 3,
+      "question": "How do I get my subscription receipt?",
+      "answer": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur sed blanditiis aut hic iusto laborum corporis, accusantium illum vel dicta temporibus animi ipsum quam quidem rerum voluptatibus nihil id asperiores!"
+    }
+  ],
+    "projects":[
+        {
+            "id": 0,
+            "image":"./images/projects/project1.jpg",
+            "title": "Project",
+            "category": "category"
+        },
+        {
+            "id": 1,
+            "image":"./images/projects/project1.jpg",
+            "title": "Project",
+            "category": "category"
+        }
+    ],
+    "team": [
+    {
+      "id": 0,
+      "image": "./images/team/te1.jpg",
+      "name": "Coriss Ambady",
+      "area": "Financial Analyst",
+      "slogan": "Fermentum massa justo sit amet risus morbi leo."
+    },
+    {
+      "id": 1,
+      "image": "./images/team/te2.jpg",
+      "name": "Cory Zamora",
+      "area": "Marketing Specialist",
+      "slogan": "Fermentum massa justo sit amet risus morbi leo."
+    },
+    {
+      "id": 2,
+      "image": "./images/team/te3.jpg",
+      "name": "Nikolas Brooten",
+      "area": "Sales Manager",
+      "slogan": "Fermentum massa justo sit amet risus morbi leo."
+    },
+    {
+      "id": 3,
+      "image": "./images/team/te4.jpg",
+      "name": "Jackie Sanders",
+      "area": "Investment Planner",
+      "slogan": "Fermentum massa justo sit amet risus morbi leo."
+    }
+  ],
+  "strategyCards": [
+    {
+      "id": 0,
+      "title": "Collect ideas",
+      "description": "Nulla vitae elit libero pharetra augue dapibus."
+    },
+    {
+      "id": 1,
+      "title": "Collect ideas",
+      "description": "Nulla vitae elit libero pharetra augue dapibus."
+    },
+    {
+      "id": 2,
+      "title": "Collect ideas",
+      "description": "Nulla vitae elit libero pharetra augue dapibus."
+    }
+  ]
+}
